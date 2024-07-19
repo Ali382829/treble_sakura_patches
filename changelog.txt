@@ -1,0 +1,23 @@
+20240718
+| Fix not boot due sepolicy issue
+| Add FOD (Partially)
+
+OTA is UP!
+
+# 20240717
+| Sync with QPR3 Sources
+Still without FOD
+
+# 20240519
+| Third test build
+| Sync with sources
+| WIP yet
+
+# 20240419
+| Second test build
+| Sync with sources
+
+# 20240409
+| Initial Alpha build
+| WIP
+Without FOD

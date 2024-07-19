@@ -1,0 +1,23 @@
+{
+  "version": "v20240718",
+  "date": "1721353083",
+  "gsi": "Project Sakura | by ChonDoe feat. TD",
+  "changelog": "https://raw.githubusercontent.com/ChonDoit/treble_sakura_patches/14/changelog.txt",
+  "variants": [
+    {
+      "name": "Gapps",
+      "size": "1582372932",
+      "url": "https://github.com/ChonDoit/treble_sakura_patches/releases/download/A14-20240717/ProjectSakura_A14-arm64-bgS_20240718.img.xz"
+    },
+    {
+      "name": "Slim",
+      "size": "1178550256",
+      "url": "https://github.com/ChonDoit/treble_sakura_patches/releases/download/A14-20240717/ProjectSakura_A14-arm64-bgS-slim_20240718.img.xz"
+    },
+    {
+      "name": "Vanilla",
+      "size": "994567344",
+      "url": "https://github.com/ChonDoit/treble_sakura_patches/releases/download/A14-20240717/ProjectSakura_A14-arm64-bvS_20240718.img.xz"
+    }
+  ]
+}
