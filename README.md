@@ -1,5 +1,5 @@
 # treble_sakura_patches
-Base patches for build Project Sakura A14 as PHH-TrebleDroid GSI
+Base patches for build Project Sakura A15 as PHH-TrebleDroid GSI
 
 ## Credits
 These people have helped this project in some way or another, so they should be the ones who receive all the credit:
